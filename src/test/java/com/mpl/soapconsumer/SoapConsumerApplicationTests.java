@@ -8,6 +8,7 @@ class SoapConsumerApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
